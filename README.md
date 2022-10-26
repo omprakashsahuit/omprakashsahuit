@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Om Prakash Sahu
-- 👀 I’m Python Developer
+- 👀 I’m Python Developer and Java Developer
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through e mail.
