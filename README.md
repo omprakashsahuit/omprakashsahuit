@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @omprakashsahuit
-- 👀 I’m interested in Black Hat Hacker
+- 👋 Hi, I’m @Om Prakash Sahu
+- 👀 I’m Python Developer
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through e mail.
